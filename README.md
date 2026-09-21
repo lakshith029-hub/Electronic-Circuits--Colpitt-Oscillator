@@ -4,6 +4,7 @@ To simulate a Colpitt Oscillator and to verify the output.
 ## APPARATUS REQUIRED:
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
+  <img width="1080" height="1375" alt="image" src="https://github.com/user-attachments/assets/cc1d4457-8644-4df9-8401-1f5be1ec9502" />
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
