@@ -42,5 +42,9 @@ PC with LT Spice software
 34.	## THEORITICAL CALCULATION:
 35.	
 37.	## OUTPUTS:
+38.	<img width="1600" height="440" alt="image" src="https://github.com/user-attachments/assets/243dbfc1-a5e5-4b2c-9238-0c3e70af0e1f" />
 
-38.	## RESULT:
+
+39.	## RESULT:
+40.	<img width="721" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9598302-cf01-4c47-883b-267ef820dacc" />
+
